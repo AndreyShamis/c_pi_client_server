@@ -1,8 +1,8 @@
 /*
 * EX7:: Program to calculate Pi with server and clients
 * ===========================================================================
-* Writen by: Ilia Gaisinsky, id: 309480051, login: iliaga
-Andrey Shamis, id: 321470882, login: andreysh
+* Writen by: Ilia Gaisinsky
+Andrey Shamis
 *
 * ===========================================================================
 *
